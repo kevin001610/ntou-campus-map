@@ -1,0 +1,325 @@
+[
+  {
+    "code": "AAC",
+    "name": "水生動物實驗中心",
+    "locationIds": [
+      65
+    ],
+    "note": ""
+  },
+  {
+    "code": "BOH",
+    "name": "人文大樓",
+    "locationIds": [
+      34
+    ],
+    "note": ""
+  },
+  {
+    "code": "CC3",
+    "name": "電算中心(圖資處)三樓",
+    "locationIds": [
+      8
+    ],
+    "note": "位於地圖第 8 號機械B館／圖資處的三樓。"
+  },
+  {
+    "code": "CE-",
+    "name": "工學院大樓",
+    "locationIds": [
+      61
+    ],
+    "note": ""
+  },
+  {
+    "code": "CLS",
+    "name": "生命科學院館",
+    "locationIds": [
+      50
+    ],
+    "note": ""
+  },
+  {
+    "code": "EE1",
+    "name": "電機一館",
+    "locationIds": [
+      62
+    ],
+    "note": ""
+  },
+  {
+    "code": "EE2",
+    "name": "電機二館",
+    "locationIds": [
+      63
+    ],
+    "note": ""
+  },
+  {
+    "code": "FRB",
+    "name": "第一餐廳",
+    "locationIds": [
+      30
+    ],
+    "note": ""
+  },
+  {
+    "code": "FSH",
+    "name": "環漁系館",
+    "locationIds": [
+      49
+    ],
+    "note": ""
+  },
+  {
+    "code": "GH1",
+    "name": "綜合一館",
+    "locationIds": [
+      45
+    ],
+    "note": ""
+  },
+  {
+    "code": "GH2",
+    "name": "綜合二館",
+    "locationIds": [
+      5
+    ],
+    "note": ""
+  },
+  {
+    "code": "GH3",
+    "name": "綜合三館",
+    "locationIds": [
+      31
+    ],
+    "note": ""
+  },
+  {
+    "code": "GRC",
+    "name": "綜合研究中心",
+    "locationIds": [
+      4
+    ],
+    "note": ""
+  },
+  {
+    "code": "GYM",
+    "name": "體育館",
+    "locationIds": [
+      23
+    ],
+    "note": ""
+  },
+  {
+    "code": "HR1",
+    "name": "河工一館",
+    "locationIds": [
+      58
+    ],
+    "note": ""
+  },
+  {
+    "code": "HR2",
+    "name": "河工二館",
+    "locationIds": [
+      70
+    ],
+    "note": ""
+  },
+  {
+    "code": "HRE",
+    "name": "海工館",
+    "locationIds": [],
+    "note": "代碼表名稱為「海工館」，與地圖第 56 號「海洋工程綜合實驗館」的對應待確認。"
+  },
+  {
+    "code": "INS",
+    "name": "資工系館",
+    "locationIds": [
+      64
+    ],
+    "note": ""
+  },
+  {
+    "code": "IVY",
+    "name": "沛華大樓",
+    "locationIds": [
+      14
+    ],
+    "note": ""
+  },
+  {
+    "code": "LIB",
+    "name": "圖書館大樓",
+    "locationIds": [
+      3
+    ],
+    "note": ""
+  },
+  {
+    "code": "MAF",
+    "name": "海事大樓",
+    "locationIds": [
+      38,
+      39,
+      41
+    ],
+    "note": "涵蓋甲、乙、丙棟；課程須補充棟別，才能精確定位。"
+  },
+  {
+    "code": "MEA",
+    "name": "機械A館",
+    "locationIds": [
+      9
+    ],
+    "note": ""
+  },
+  {
+    "code": "MEB",
+    "name": "機械B館",
+    "locationIds": [
+      8
+    ],
+    "note": ""
+  },
+  {
+    "code": "MFE",
+    "name": "食科工程館",
+    "locationIds": [
+      51
+    ],
+    "note": ""
+  },
+  {
+    "code": "MFS",
+    "name": "食品科學館",
+    "locationIds": [
+      53
+    ],
+    "note": ""
+  },
+  {
+    "code": "NAV",
+    "name": "商船大樓",
+    "locationIds": [
+      11
+    ],
+    "note": ""
+  },
+  {
+    "code": "NVA",
+    "name": "造船系館",
+    "locationIds": [
+      60
+    ],
+    "note": ""
+  },
+  {
+    "code": "OCE",
+    "name": "海洋系館",
+    "locationIds": [
+      46
+    ],
+    "note": ""
+  },
+  {
+    "code": "SAH",
+    "name": "海空大樓",
+    "locationIds": [
+      17
+    ],
+    "note": ""
+  },
+  {
+    "code": "SPF",
+    "name": "體育場地",
+    "locationIds": [
+      24,
+      25,
+      29,
+      48,
+      57,
+      59
+    ],
+    "note": "體育場地為集合代碼；須補充實際場地，才能精確定位。"
+  },
+  {
+    "code": "STA",
+    "name": "育樂館",
+    "locationIds": [
+      10
+    ],
+    "note": ""
+  },
+  {
+    "code": "STM",
+    "name": "航管大樓",
+    "locationIds": [
+      15
+    ],
+    "note": ""
+  },
+  {
+    "code": "TEC",
+    "name": "技術大樓",
+    "locationIds": [
+      12
+    ],
+    "note": ""
+  },
+  {
+    "code": "UAH",
+    "name": "空蝕水槽",
+    "locationIds": [
+      69
+    ],
+    "note": ""
+  },
+  {
+    "code": "SAC",
+    "name": "學生活動中心",
+    "locationIds": [
+      22
+    ],
+    "note": ""
+  },
+  {
+    "code": "ADM",
+    "name": "行政大樓",
+    "locationIds": [
+      1
+    ],
+    "note": ""
+  },
+  {
+    "code": "ODB",
+    "name": "海大意象館(海洋夢想基地)",
+    "locationIds": [
+      26
+    ],
+    "note": ""
+  },
+  {
+    "code": "FSB",
+    "name": "食安所館",
+    "locationIds": [
+      47
+    ],
+    "note": ""
+  },
+  {
+    "code": "ECG",
+    "name": "電資暨綜合教學大樓",
+    "locationIds": [
+      68
+    ],
+    "note": ""
+  },
+  {
+    "code": "MZ-",
+    "name": "馬祖校區教學大樓",
+    "locationIds": [],
+    "note": "馬祖校區未包含在這張校本部地圖中。"
+  }
+]
